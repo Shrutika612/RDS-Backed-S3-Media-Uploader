@@ -1,6 +1,4 @@
 # RDS-Backed-S3-Media-Uploader
-
-# RDS-Backed-S3-Media-Uploader
 media uploader using RDS &amp; S3
 
 1.	Launch a EC2 instance in amazon linux <br> 
